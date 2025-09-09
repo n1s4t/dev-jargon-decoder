@@ -66,7 +66,7 @@ You can host this tool for free using GitHub Pages:
 - Click Save.
 
 
-ðŸ¤ How to Contribute
+## 🤝 How to Contribute
 --------------------
 
 Contributions are welcome and highly encouraged! Whether it's fixing a bug, improving the UI, or suggesting a new feature, your help is appreciated.
@@ -80,9 +80,9 @@ How to get started:
 5.  Push your changesÂ to your forked repository: git push origin feature/your-awesome-feature.
 6.  Open a Pull RequestÂ back to the main repository.
 
-Alternatively, if you find a bug or have an idea, please [open an issue](https://www.google.com/url?q=https://www.google.com/search?q%3Dhttps://github.com/your-username/dev-jargon-decoder/issues&sa=D&source=editors&ust=1757452414247201&usg=AOvVaw2hyxaoK_wpgb8KZN9gw_XH)!
+Alternatively, if you find a bug or have an idea, please [open an issue](https://www.google.com/url?q=https://www.google.com/search?q%3Dhttps://github.com/n1s4t/dev-jargon-decoder/issues&sa=D&source=editors&ust=1757452414247201&usg=AOvVaw2hyxaoK_wpgb8KZN9gw_XH)!
 
-ðŸ“œ License
+## 📜 License
 ----------
 
 This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/url?q=https://opensource.org/licenses/MIT&sa=D&source=editors&ust=1757452414247773&usg=AOvVaw1daDoe3ryKG-BuUgccs2NL)Â file for details. You are free to use, modify, and distribute this project.
