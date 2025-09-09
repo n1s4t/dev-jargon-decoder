@@ -55,3 +55,12 @@ git clone https://github.com/n1s4t/dev-jargon-decoder.git
 
 # Navigate to the project directory
 cd dev-jargon-decoder
+
+
+## 🌐 Deploy with GitHub Pages
+You can host this tool for free using GitHub Pages:
+- Push your repository to GitHub.
+- Go to Settings → Pages.
+- Under Source, select Deploy from a branch.
+- Choose main and / (root) folder.
+- Click Save.
