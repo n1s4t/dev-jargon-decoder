@@ -73,18 +73,18 @@ Contributions are welcome and highly encouraged! Whether it's fixing a bug, impr
 
 How to get started:
 
-1.  Fork the repositoryÂ on GitHub.
+1.  Fork the repository on GitHub.
 2.  Clone your forked repositoryÂ to your local machine.
-3.  Create a new branchÂ for your changes: git checkout -b feature/your-awesome-feature.
-4.  Make your changesÂ and commit them with a clear, descriptive message.
-5.  Push your changesÂ to your forked repository: git push origin feature/your-awesome-feature.
-6.  Open a Pull RequestÂ back to the main repository.
+3.  Create a new branch for your changes: git checkout -b feature/your-awesome-feature.
+4.  Make your changes and commit them with a clear, descriptive message.
+5.  Push your changes to your forked repository: git push origin feature/your-awesome-feature.
+6.  Open a Pull Request back to the main repository.
 
 Alternatively, if you find a bug or have an idea, please [open an issue](https://www.google.com/url?q=https://www.google.com/search?q%3Dhttps://github.com/n1s4t/dev-jargon-decoder/issues&sa=D&source=editors&ust=1757452414247201&usg=AOvVaw2hyxaoK_wpgb8KZN9gw_XH)!
 
 ## 📜 License
 ----------
 
-This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/url?q=https://opensource.org/licenses/MIT&sa=D&source=editors&ust=1757452414247773&usg=AOvVaw1daDoe3ryKG-BuUgccs2NL)Â file for details. You are free to use, modify, and distribute this project.
+This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/url?q=https://opensource.org/licenses/MIT&sa=D&source=editors&ust=1757452414247773&usg=AOvVaw1daDoe3ryKG-BuUgccs2NL) A file for details. You are free to use, modify, and distribute this project.
 
-Keywords for discoverability:Â developer tool, jargon buster, tech term explainer, glossary, dictionary, software engineering, programming, coding, beginner developers, student developers, open source project, JavaScript tool, HTML, Tailwind CSS, Gemini API, AI tool, web app.
+Keywords for discoverability: A developer tool, jargon buster, tech term explainer, glossary, dictionary, software engineering, programming, coding, beginner developers, student developers, open source project, JavaScript tool, HTML, Tailwind CSS, Gemini API, AI tool, web app.
