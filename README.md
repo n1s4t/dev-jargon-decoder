@@ -80,7 +80,7 @@ How to get started:
 5.  Push your changes to your forked repository: git push origin feature/your-awesome-feature.
 6.  Open a Pull Request back to the main repository.
 
-Alternatively, if you find a bug or have an idea, please [open an issue](https://www.google.com/url?q=https://www.google.com/search?q%3Dhttps://github.com/n1s4t/dev-jargon-decoder/issues&sa=D&source=editors&ust=1757452414247201&usg=AOvVaw2hyxaoK_wpgb8KZN9gw_XH)!
+Alternatively, if you find a bug or have an idea, please [open an issue](https://www.google.com/url?q=https://www.google.com/search?q%3Dhttps://github.com/n1s4t/dev-jargon-decoder/issues/new/choose)!
 
 ## 📜 License
 ----------
